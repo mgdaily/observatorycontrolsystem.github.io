@@ -4,8 +4,8 @@ title: Observatory Control System
 # Format all site urls consistently
 permalink: /:categories/:title/
 favicon: /assets/images/favicon.png
-baseurl: /observatorycontrolsystem.github.io
-url: https://mgdaily.github.io
+baseurl: "/observatorycontrolsystem.github.io"
+url: "https://mgdaily.github.io"
 defaults:
   -
     scope:
