@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Telescope Control System (TCS) Integration
-subtitle: Integrating a TCS with the Observatory Control System
+subtitle: Integrating a TCS with the Observatory Control System 
 ---
 
 # Telescope Control System Integration
